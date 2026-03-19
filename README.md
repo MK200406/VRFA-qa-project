@@ -94,6 +94,5 @@ VRFA-qa-project/
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=MK200406-VRFA&icon=0&color=0)
 
 </div>
