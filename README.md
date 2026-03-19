@@ -11,3 +11,5 @@ https://qa.valueresearchonline.com/view-report/report?transactionId=50d15025-090
 Portfolio Analysis Functional Testing Report
 
 https://qa.valueresearchonline.com/view-report/report?transactionId=d26fd3c8-794b-4572-9535-f3a6b1af4306
+
+Note:-Open Reports in new tab.
