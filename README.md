@@ -36,7 +36,7 @@ VRFA-qa-project/
 
 > ⚠️ **Note:** Open all report links in a new tab
 
-### 📈 Fund Details Page — Functional Testing Report
+### 📈 Fund Details — Page Testing Report
 [![View Report](https://img.shields.io/badge/View%20Report-Fund%20Details-1F4E79?style=for-the-badge)](https://qa.valueresearchonline.com/view-report/report?transactionId=f09994dd-e995-464b-b0d6-d0d2ccd1bb94)
 
 ### 📊 Portfolio Planner — Functional Testing Report
